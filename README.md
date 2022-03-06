@@ -4,4 +4,4 @@ This is simply a list of songs that I have put on "repeat one" and listened to o
 # Songs
 Here are a list of my "repeat one songs" sorted by chronological order.
 
-* [The Boomtown Rats - I Don't Like Mondays 2022-03-06](https://open.spotify.com/track/7JFoeg0arawADjGcz9gBnq?si=524e7ab32e634fe5)
+* [The Boomtown Rats - I Don't Like Mondays - 2022-03-06](https://open.spotify.com/track/7JFoeg0arawADjGcz9gBnq?si=524e7ab32e634fe5)
