@@ -4,6 +4,8 @@ This is simply a list of songs that I have put on "repeat one" and listened to o
 # Songs
 Here are a list of my "repeat one songs" sorted by chronological order.
 
+* [Lil' Dicky - Really Scared - 2022-06-09](https://www.youtube.com/watch?v=_fVPtBy2ssM)
+* [Kendrick Lamar - Father Time - 2022-06-02](https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG?si=340b65e0b28f4156)
 * [The Black Keys - Little Black Submaries - 2021-12-07](https://open.spotify.com/track/1PXsUXSM3LF2XNSkmIldPb?si=a950e7169c49480e)
 * [Manu Pilas - Bella Ciao - 2022-02-10](https://open.spotify.com/track/3BsUcp4CFmJh39OKP4qbLx?si=6458c7500e3d4ac4)
 * [Doja Cat - Celebrity Skin - 2022-02-14](https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki?si=b531d1413e514cd4)
