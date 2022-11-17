@@ -4,6 +4,7 @@ This is simply a list of songs that I have put on "repeat one" and listened to o
 # Songs
 Here are a list of my "repeat one songs" sorted by chronological order.
 
+* [Taylor Swift - Midnight Rain - 2022-11-09](https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t?si=e70714abbff24c3c)
 * [Lil' Dicky - Really Scared - 2022-06-09](https://www.youtube.com/watch?v=_fVPtBy2ssM)
 * [Kendrick Lamar - Father Time - 2022-06-02](https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG?si=340b65e0b28f4156)
 * [The Black Keys - Little Black Submaries - 2021-12-07](https://open.spotify.com/track/1PXsUXSM3LF2XNSkmIldPb?si=a950e7169c49480e)
